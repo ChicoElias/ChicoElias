@@ -1,79 +1,60 @@
 # <p align="center">Elías Delgado Manríquez</p>
-### <p align="center">**Software Engineer | Health-Tech & Backend Specialist**</p>
+### <p align="center">**Software Engineer | Backend & Mobile Specialist**</p>
 <p align="center">Santiago, Chile</p>
 
 ---
 
-## 🚀 Propuesta de Valor Profesional
-
-[cite_start]Ingeniero en Informática especializado en el desarrollo de arquitecturas **Backend escalables** y soluciones **Mobile nativas**. [cite_start]Mi perfil se distingue por integrar un **Domain Knowledge** avanzado en salud pública (CESFAM), permitiéndome diseñar sistemas que no solo funcionan técnicamente, sino que resuelven cuellos de botella operativos reales en entornos de alta criticidad[cite: 5].
-
----
-
-## 🛠️ Stack Tecnológico de Ingeniería
-
-#### **Sistemas Backend & Arquitectura**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/Spring_Security_JWT-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="35">
-</p>
-
-#### **Ingeniería de Datos & Persistencia**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/Flyway-CC0202?style=for-the-badge&logo=flyway&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="35">
-</p>
-
-#### **Desarrollo Mobile & UI/UX**
-<p align="left">
-  <img src="https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/MVVM_Architecture-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="35">
-</p>
-
-#### **DevOps & Ciclo de Vida (CI/CD)**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/Swagger_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="35">
-</p>
+### **Propuesta de Valor**
+Ingeniero en Informática enfocado en la construcción de ecosistemas digitales robustos y escalables. Mi valor diferencial radica en la convergencia entre el rigor técnico y un **Domain Knowledge** avanzado en salud pública (CESFAM), permitiéndome diseñar soluciones que optimizan procesos críticos y mejoran la experiencia del usuario final.
 
 ---
 
-## 🏆 Proyectos de Alto Impacto
+### **🛡️ Especialización Técnica**
 
-### 🏥 [CareFlow AI](https://github.com/ChicoElias/careflow-ai)
-**Backend de Grado Clínico para Gestión de Solicitudes y Priorización.**
-- [cite_start]**Ingeniería:** Arquitectura limpia (Clean Architecture), seguridad basada en roles con **JWT**, y migraciones controladas con **Flyway**[cite: 5].
-- [cite_start]**Diferenciador:** Incluye un servicio de triaje asistido por IA y trazabilidad completa para auditorías de salud[cite: 5].
+**Core Development**
+![Java](https://img.shields.io/badge/Java_17+-212121?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-212121?style=for-the-badge&logo=springboot&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin_Native-212121?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-212121?style=for-the-badge&logo=android&logoColor=white)
 
-### 📱 [NexusHub Enterprise](https://github.com/ChicoElias/nexushub)
-**Plataforma Fullstack de Gestión de Catálogo e Inventario.**
-- [cite_start]**Ingeniería:** Sincronización robusta entre Backend (Spring Boot) y Cliente Móvil (Kotlin Native)[cite: 6].
-- [cite_start]**Foco:** Implementación de reglas de negocio complejas y UI reactiva con Jetpack Compose[cite: 6, 9].
+**Data & Architecture**
+![MySQL](https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-212121?style=for-the-badge&logo=cleancode&logoColor=white) 
+![MVVM](https://img.shields.io/badge/MVVM_Pattern-212121?style=for-the-badge&logo=android&logoColor=white)
+
+**Tools & DevOps**
+![Docker](https://img.shields.io/badge/Docker_Containers-212121?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-212121?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/CI_CD-212121?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Swagger](https://img.shields.io/badge/OpenAPI-212121?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
 
-## 📊 Métricas de Ingeniería
+### **📂 Ecosistema de Proyectos (Featured)**
 
+* **🏥 [CareFlow AI](https://github.com/ChicoElias/careflow-ai)**: Backend de grado clínico para gestión de solicitudes y priorización inteligente. [cite_start]Implementa Spring Boot 3, seguridad JWT, Flyway y Testcontainers[cite: 5].
+* [cite_start]**📱 [NexusHub Enterprise](https://github.com/ChicoElias/nexushub)**: Plataforma fullstack (Spring Boot + Android Native) centrada en la arquitectura de capas limpia y gestión de catálogos complejos[cite: 6].
+* [cite_start]**🎟️ [Tickets API](https://github.com/ChicoElias/tickets-api-elias)**: Microservicio especializado en flujos CRUD de soporte TI, enfocado en la eficiencia de paginación y filtrado[cite: 7].
+* [cite_start]**📊 [API Market Backend](https://github.com/ChicoElias/api-market-backend)**: Sistema comercial de gestión de usuarios y cotizaciones con persistencia en PostgreSQL y seguridad JWT[cite: 8].
+
+---
+
+### **📈 Engineering Metrics**
 <p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ChicoElias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChicoElias&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChicoElias&show_icons=true&theme=transparent&title_color=000000&text_color=444444&icon_color=000000&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChicoElias&layout=compact&theme=transparent&title_color=000000&text_color=444444&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="center">📫 Conectemos para Proyectos Estratégicos</h3>
-
+### **📫 Contacto Profesional**
 <p align="center">
-<a href="mailto:eliasdelgado.m7@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/tu-perfil-linkedin" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eliasdelgado.m7@gmail.com">Email</a> • 
+  <a href="https://linkedin.com/in/tu-perfil">LinkedIn</a> • 
+  <a href="https://github.com/ChicoElias">GitHub</a>
 </p>
 
 <p align="center">
-  <i>"La ingeniería no se trata solo de escribir código, sino de resolver problemas de forma escalable y ética."</i>
+  <i>"El software es una herramienta para resolver problemas, no un fin en sí mismo."</i>
 </p>
