@@ -2,7 +2,7 @@
 <h3 align="center">Backend Engineer · Health-Tech Focus</h3>
 
 <p align="center">
-  Santiago, Chile · Java · Spring Boot · Kotlin
+  Santiago, Chile
 </p>
 
 <p align="center">
@@ -16,97 +16,146 @@
 
 ---
 
+# 🇪🇸 Español
+
 ## 🧠 Sobre mí
 
-Ingeniero en Informática orientado a **Backend Engineering**, especializado en el diseño de sistemas robustos, APIs y lógica transaccional.
+Ingeniero en Informática enfocado en **Backend Engineering**, construyendo APIs y sistemas transaccionales con **Java y Spring Boot**.
 
-Combino desarrollo en **Java + Spring Boot** con experiencia real en el sector salud (**CESFAM**), lo que me permite construir software alineado a problemas operativos reales, no solo teóricos.
-
-> 🔎 Enfoque: **arquitectura limpia, integridad de datos y sistemas confiables en entornos críticos**
+Mi experiencia en el sector salud (CESFAM) me permite desarrollar software alineado a problemas reales, priorizando **integridad de datos, claridad arquitectónica y mantenibilidad**.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Stack Tecnológico
 
-### Backend
+### 🧩 Backend & Lenguajes
 <p>
-  <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-Security-000000?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin" />
 </p>
 
-### Data
+### 🗄️ Data & Persistence
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-### Mobile & Architecture
+### 📱 Mobile & Arquitectura
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MVVM-Architecture-3DDC84?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Clean Architecture-000000?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=android" />
 </p>
 
-### DevOps & Testing
+- Jetpack Compose  
+- MVVM  
+- Clean Architecture  
+
+### ⚙️ DevOps & Tooling
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flyway-Migrations-CC0202?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Testcontainers-Integration-007ACC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Git-Versioning-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
+
+- Flyway  
+- Testcontainers  
+- Swagger / OpenAPI  
 
 ---
 
 ## 🚀 Proyectos Destacados
 
 ### 🏥 CareFlow AI  
-**Gestión inteligente de listas de espera clínicas**
+🔗 https://github.com/ChicoElias/careflow-ai  
 
-🔗 https://github.com/ChicoElias/careflow-ai
+Backend estilo productivo para gestión de solicitudes clínicas:
 
-- Modela problemas reales del sistema de salud público  
-- Arquitectura limpia + separación de dominios  
-- Seguridad con JWT + auditoría de datos  
+- Priorización de listas de espera  
+- JWT + auditoría de datos  
+- Migraciones con Flyway  
 - Testing real con Testcontainers  
 
-**Stack:** Spring Boot 3 · PostgreSQL · Docker · Flyway  
+---
+
+### 📱 NexusHub  
+🔗 https://github.com/ChicoElias/nexushub  
+
+Plataforma fullstack con backend + app Android:
+
+- API REST documentada  
+- Cliente móvil en Kotlin  
+- Arquitectura limpia y desacoplada  
 
 ---
 
-### 📱 NexusHub Enterprise  
-**Integración Backend + Mobile (Fullstack)**
-
-🔗 https://github.com/ChicoElias/nexushub
-
-- API REST documentada con Swagger/OpenAPI  
-- Cliente Android en Kotlin (MVVM + Compose)  
-- Sincronización eficiente de datos  
-
-**Stack:** Spring Boot · Kotlin · Firebase  
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ChicoElias&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChicoElias&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🎯 En lo que estoy enfocado
+## 🎯 Enfoque Actual
 
 - Backend con **Java + Spring Boot (nivel productivo)**
-- Diseño de APIs y sistemas transaccionales
-- Arquitectura limpia aplicada a proyectos reales
-- Preparación para rol **Backend Developer Junior**
+- Diseño de APIs robustas y mantenibles
+- Seguridad, validación y modelado de datos
+- Proyectos listos para entrevista técnica
 
 ---
 
-## 🤝 Conectemos
+# 🇺🇸 English
+
+## 🧠 About Me
+
+Computer Engineering student focused on **Backend Development**, building scalable APIs and transactional systems using **Java and Spring Boot**.
+
+My experience in the public healthcare sector allows me to design software grounded in real operational needs, with emphasis on **data integrity, clean architecture, and maintainability**.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧩 Backend & Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin" />
+</p>
+
+### 🗄️ Data
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### 📱 Mobile & Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=android" />
+</p>
+
+- Jetpack Compose  
+- MVVM  
+- Clean Architecture  
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
+
+- Flyway  
+- Testcontainers  
+- Swagger / OpenAPI  
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 CareFlow AI  
+Production-style healthcare backend:
+
+- Waiting list prioritization  
+- JWT authentication  
+- Data auditing  
+- Docker + Testcontainers  
+
+---
+
+### 📱 NexusHub  
+Fullstack platform:
+
+- REST API design  
+- Android client (Kotlin)  
+- Clean layered architecture  
+
+---
+
+## 🤝 Contact
 
 <p align="center">
   <a href="mailto:eliasdelgado.m7@gmail.com">
